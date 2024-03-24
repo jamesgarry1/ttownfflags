@@ -8,6 +8,16 @@
 4. **save and you're good to go**
 <img src="/assets/tutorial.gif" width="750"/>
 
+### performance mode
+```
+{ "DFFlagDebugPerfMode": "True" }
+```
+
+### moses simulator 😃
+```
+{ "DFFlagIsGood": "False" }
+```
+
 ### gui hider
 ```json
 { "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True" }
@@ -40,11 +50,13 @@
 ```
 
 ### night maps fflag
+spoyo said its ok dw
 ```
-gatekept even though its already leaked :3
+{ "DFFlagDebugPauseVoxelizer": "True" } 
 ```
 
 ### force lod on meshes
+removes certain polygons
 ```
 { "DFIntCSGLevelOfDetailSwitchingDistance": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0" }
 ```
