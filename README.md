@@ -23,6 +23,11 @@
 { "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True" }
 ```
 
+### funnies
+```
+{ "FFlagRemapAnimationR6ToR15Rig": "True" }
+```
+
 ### no textures
 ```json
 {
