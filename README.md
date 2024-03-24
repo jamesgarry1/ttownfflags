@@ -8,11 +8,6 @@
 4. **save and you're good to go**
 <img src="/assets/tutorial.gif" width="750"/>
 
-### "IS THAT TTIRL???"
-```json
-{ "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1" }
-```
-
 ### gui hider
 ```json
 { "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True" }
@@ -27,11 +22,6 @@
     "FStringTerrainMaterialTablePre2022": "",
     "FFlagMSRefactor5": "False"
 }
-```
-
-### "is there something with my game"
-```json
-{ "FFlagRemapAnimationR6ToR15Rig": "True" }
 ```
 
 ### disable chat
