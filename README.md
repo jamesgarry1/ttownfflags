@@ -23,7 +23,10 @@
 { "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True" }
 ```
 
-### funnies
+### disable gui
+
+### skedaddle
+clientsided
 ```
 { "FFlagRemapAnimationR6ToR15Rig": "True" }
 ```
@@ -64,4 +67,11 @@ spoyo said its ok dw
 removes certain polygons
 ```
 { "DFIntCSGLevelOfDetailSwitchingDistance": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0" }
+```
+
+### hardcore 
+no gui
+```json
+  { "FFlagDebugAdornsDisabled": "True" },
+  { "DFFlagDebugPerfMode": "True" },
 ```
