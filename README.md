@@ -28,12 +28,6 @@
 { "FFlagDebugAdornsDisabled": "True" },
 ```
 
-### skedaddle
-clientsided
-```
-{ "FFlagRemapAnimationR6ToR15Rig": "True" }
-```
-
 ### no textures
 ```json
 {
