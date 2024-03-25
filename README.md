@@ -71,4 +71,5 @@ no gui
 ```json
   { "FFlagDebugAdornsDisabled": "True" },
   { "DFFlagDebugPerfMode": "True" },
+  { "DFFlagDebugPauseVoxelizer": "True" },
 ```
