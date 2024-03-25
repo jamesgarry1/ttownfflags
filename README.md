@@ -24,6 +24,9 @@
 ```
 
 ### disable gui
+```
+{ "FFlagDebugAdornsDisabled": "True" },
+```
 
 ### skedaddle
 clientsided
